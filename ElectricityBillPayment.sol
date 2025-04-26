@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
-
+// this to check the changes
 contract ElectricityBillPayment {
     address public admin; // Admin address
     uint256 public monthlyBillAmount; // Monthly bill amount
